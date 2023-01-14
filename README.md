@@ -4,7 +4,7 @@
 
 Use your testing [mindmap](http://adventuresinqa.com/2016/01/11/mobile-testing-cheat-sheet/) to test the app against the requirements.
 - Test the app against different operating system versions and manufacturers.
-- Test the app in portrait and landscape mode.
+- [Test the app in portrait and landscape mode.](http://adventuresinqa.com/2015/08/24/rotation-tour-in-mobile-testing/)
 - Test the app on different screen resolutions and screen densities.
 - Test the app in different mobile networks.
 - If the app uses device-specific hardware functions, test for GPS, camera or sensors.
@@ -14,3 +14,7 @@ Use your testing [mindmap](http://adventuresinqa.com/2016/01/11/mobile-testing-c
 - Test the update procedure of the app.
 
 ![image](https://user-images.githubusercontent.com/70295997/212464798-bc0ba19a-c8f3-41cc-8751-df7c3812287b.png)
+
+----
+
+[Why Perform Orientation Tour During Mobile Testing?](https://qatestlab.com/resources/knowledge-center/why-perform-orientation-tour-during-mobile-testing/)
